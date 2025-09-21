@@ -6,9 +6,26 @@
 This project was built with Next.js, Genkit, and Google's Gemini AI.
 
 
-![Green Wipe Dashboard](<img width="1854" height="752" alt="Screenshot 2025-09-21 225016" src="https://github.com/user-attachments/assets/10bfe02c-19bb-46fa-af94-8eeed0d0d19b" />
-)
-More images of project (<img width="1733" height="778" alt="Screenshot 2025-09-21 225328" src="https://github.com/user-attachments/assets/dbb39498-1663-45b0-bb14-45f7001c58a0" />
+
+
+
+<img width="1733" height="778" alt="Screenshot 2025-09-21 225328" src="https://github.com/user-attachments/assets/03634afb-6267-4f43-9cf4-8a95feecbf03" />
+<img width="1847" height="755" alt="Screenshot 2025-09-21 225039" src="https://github.com/user-attachments/assets/4e0cd28d-f73c-4ca2-aaba-b3a7c200edee" />
+<img width="1788" height="653" alt="Screenshot 2025-09-21 225131" src="https://github.com/user-attachments/assets/048a0434-bf07-431e-8a7d-fdd1c5fef8fa" />
+<img width="1847" height="866" alt="Screenshot 2025-09-21 225148" src="https://github.com/user-attachments/assets/6b321a37-fa7e-4684-b043-835dc53f205d" />
+<img width="1878" height="839" alt="Screenshot 2025-09-21 225200" src="https://github.com/user-attachments/assets/69a09cc8-8a6e-4a00-827d-98c8d425c06f" />
+<img width="1887" height="866" alt="Screenshot 2025-09-21 225237" src="https://github.com/user-attachments/assets/f5676368-c978-4f35-9116-a2c37c55200a" />
+<img width="1245" height="705" alt="Screenshot 2025-09-21 225248" src="https://github.com/user-attachments/assets/3a6e9bb4-ac44-4097-bd93-62987d57226b" />
+<img width="1761" height="769" alt="Screenshot 2025-09-21 225318" src="https://github.com/user-attachments/assets/72c2b62d-8cde-4f5a-985e-2b98354ddb87" />
+<img width="1733" height="778" alt="Screenshot 2025-09-21 225328" src="https://github.com/user-attachments/assets/5bfd24fc-509e-48b0-9c23-45608b62b1a4" />
+
+
+
+
+
+
+
+
 
 ## How It Works
 
