@@ -5,7 +5,10 @@
 
 This project was built with Next.js, Genkit, and Google's Gemini AI.
 
-![Green Wipe Dashboard](https://storage.googleapis.com/firebase-studio-storage/project-builds/studio-projects/gmp-dev-416908/1716301323381/image.png)
+
+![Green Wipe Dashboard](<img width="1854" height="752" alt="Screenshot 2025-09-21 225016" src="https://github.com/user-attachments/assets/10bfe02c-19bb-46fa-af94-8eeed0d0d19b" />
+)
+More images of project (<img width="1733" height="778" alt="Screenshot 2025-09-21 225328" src="https://github.com/user-attachments/assets/dbb39498-1663-45b0-bb14-45f7001c58a0" />
 
 ## How It Works
 
